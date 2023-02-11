@@ -8,10 +8,10 @@ This is your first step into the world of Git.This command is used to initialize
 2.git clone
 You use git clone when you need to create a local copy of a git repository from a remote repository.The code is automatically downloaded into your machine and you can view it in the directory.
 
-3. Git branch
+3.git branch
 Suppose you are working as a developer and you want to create a new feature in your project without disturbing your teammates, for that you would use the git branch which would create a copy of the repository in which you can work in without affecting the other members of your team.
 
-4.Git checkout 
+4.git checkout 
 This command is similar to the branch with the distinction being that you can use it to switch to an existing branch or you can just create and switch at the same time using the checkout command.You can also use this command to checkout the different files between the branches.
 
 5.git add
